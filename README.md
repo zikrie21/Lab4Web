@@ -1,13 +1,5 @@
-# Pertanyaan dan Tugas
-1. Tambahkan Layout Untuk menu About
- * => buat layout yang berisi deskripsi,portofolio,dll
-
-2. Tambahkan Layout untuk menu contact
- * => yang berisi form isian : nama, email, massage,dll
-
-## jawaban 
-1. 
-* berikut merupakan deklarasinya :
+# praktikum 
+berikut merupakan deklarasinya :
 ![gambar 1](screenshot/ss1.png)
 
 ![gambar 2](screenshot/ss2.png)
@@ -17,12 +9,30 @@
 * Berikut merupakan tampian Browsernya :
 ![gambar 4](screenshot/ss4.png)
 
-2. 
+
+## Pertanyaan dan Tugas
+1. Tambahkan Layout Untuk menu About
+ * => buat layout yang berisi deskripsi,portofolio,dll
+
+2. Tambahkan Layout untuk menu contact
+ * => yang berisi form isian : nama, email, massage,dll
+
+### jawaban 
+1.  
 * berikut merupakan deklarasinya :
 ![gambar 5](screenshot/ss5.png)
 
 * berikut merupakan tampilan browsernya :
 ![gambar 6](screenshot/ss6.png)
+
+2. 
+* berikut merupakan deklarasinya :
+![gambar 16](screenshot/ss16.png)
+
+![gambar 17](screenshot/ss17.png)
+
+* berikut merupakan tampilan browsernya :
+![gambar 18](screenshot/ss18.png)
 
 * berikut merupakan deklarasi css style nya :
 ![gambar 7](screenshot/ss7.png)
